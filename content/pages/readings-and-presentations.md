@@ -10,54 +10,444 @@ The textbook chapter titles are listed below, since most of the student presenta
 
 Aigner, Martin, Günter M. Ziegler, and Karl Heinrich Hofmann. _Proofs from THE BOOK_. Springer, 2014. ISBN: 9783662442043. \[Preview with [Google books](http://books.google.com/books?id=2iI9BAAAQBAJ&printsec=frontcover)\]
 
-| CHAPTER # | PRESENTATION TOPICS / CHAPTER TITLES |
-| --- | --- |
-| {{< td-colspan 2 >}}**Number Theory**{{< /td-colspan >}} ||
-| 1 | Six proofs of the infinity of primes |
-| 2 | Bertrand’s postulate |
-| 3 | Binomial coefficients are (almost) never powers |
-| 4 | Representing numbers as sums of two squares |
-| 5 | The law of quadratic reciprocity |
-| 6 | Every finite division ring is a field |
-| 7 | The spectral theorem and Hadamard’s determinant problem |
-| 8 | Some irrational numbers |
-| 9 | Three times π2/6 |
-| {{< td-colspan 2 >}}**Geometry**{{< /td-colspan >}} ||
-| 10 | Hilbert’s third problem: decomposing polyhedra |
-| 11 | Lines in the plane and decompositions of graphs |
-| 12 | The slope problem |
-| 13 | Three applications of Euler’s formula |
-| 14 | Cauchy’s rigidity theorem |
-| 15 | The Borromean rings don’t exist |
-| 16 | Touching simplices |
-| 17 | Every large point set has an obtuse angle |
-| 18 | Borsuk’s conjecture |
-| {{< td-colspan 2 >}}**Analysis**{{< /td-colspan >}} ||
-| 19 | Sets, functions, and the continuum hypothesis |
-| 20 | In praise of inequalities |
-| 21 | The fundamental theorem of algebra |
-| 22 | One square and an odd number of triangles |
-| 23 | A theorem of Pólya on polynomials |
-| 24 | On a lemma of Littlewood and Offord |
-| 25 | Cotangent and the Herglotz trick |
-| 26 | Buffon’s needle problem |
-| {{< td-colspan 2 >}}**Combinatorics**{{< /td-colspan >}} ||
-| 27 | Pigeon-hole and double counting |
-| 28 | Tiling rectangles |
-| 29 | Three famous theorems on finite sets |
-| 30 | Shuffling cards |
-| 31 | Lattice paths and determinants |
-| 32 | Cayley’s formula for the number of trees |
-| 33 | Identities versus bijections |
-| 34 | The finite Kakeya problem |
-| 35 | Completing Latin squares |
-| {{< td-colspan 2 >}}**Graph Theory**{{< /td-colspan >}} ||
-| 36 | The Dinitz problem |
-| 37 | Permanents and the power of entropy |
-| 38 | Five-coloring plane graphs |
-| 39 | How to guard a museum |
-| 40 | Turán’s graph theorem |
-| 41 | Communicating without errors |
-| 42 | The chromatic number of Kneser graphs |
-| 43 | Of friends and politicians |
-| 44 | Probability makes counting (sometimes) easy
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CHAPTER #
+{{< thclose >}}
+{{< thopen >}}
+PRESENTATION TOPICS / CHAPTER TITLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Number Theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Six proofs of the infinity of primes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Bertrand’s postulate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Binomial coefficients are (almost) never powers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Representing numbers as sums of two squares
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The law of quadratic reciprocity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Every finite division ring is a field
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The spectral theorem and Hadamard’s determinant problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Some irrational numbers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Three times π2/6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Geometry**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Hilbert’s third problem: decomposing polyhedra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Lines in the plane and decompositions of graphs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The slope problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Three applications of Euler’s formula
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Cauchy’s rigidity theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The Borromean rings don’t exist
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Touching simplices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Every large point set has an obtuse angle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Borsuk’s conjecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Analysis**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Sets, functions, and the continuum hypothesis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+In praise of inequalities
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+The fundamental theorem of algebra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+One square and an odd number of triangles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+A theorem of Pólya on polynomials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+On a lemma of Littlewood and Offord
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Cotangent and the Herglotz trick
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Buffon’s needle problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Combinatorics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Pigeon-hole and double counting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Tiling rectangles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Three famous theorems on finite sets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Shuffling cards
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Lattice paths and determinants
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Cayley’s formula for the number of trees
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Identities versus bijections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+The finite Kakeya problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Completing Latin squares
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Graph Theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+The Dinitz problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Permanents and the power of entropy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Five-coloring plane graphs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+How to guard a museum
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+Turán’s graph theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+Communicating without errors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+The chromatic number of Kneser graphs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+Of friends and politicians
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+Probability makes counting (sometimes) easy
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
