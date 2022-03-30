@@ -4,6 +4,7 @@ description: Undergraduate Seminar in Discrete Mathematics, student project by S
   Cannon
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/2dc1c9e37d402c000b628ee85e2228d1_MIT18_304S15_project2.pdf
 file_type: application/pdf
+parent_uid: 7c47f351-10c6-d223-2792-06bc01cc1df5
 resourcetype: Document
 title: 'Undergraduate Seminar in Discrete Mathematics, Making Money from Fair Games:
   Examining the Borel-Cantelli Lemma'

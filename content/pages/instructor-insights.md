@@ -43,8 +43,8 @@ Curriculum Information
 
 ### Prerequisites
 
-*   _[18.310 Principles of Discrete Applied Mathematics](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/pages/index.htm) or_ _[6.042J / 18.062J Mathematics for Computer Science](/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/index.htm)_
-*   _And one of: [18.06 Linear Algebra](/courses/18-06sc-linear-algebra-fall-2011/pages/index.htm),_ _[18.700 Linear Algebra](/courses/18-700-linear-algebra-fall-2013/pages/index.htm), or_ _[18.701 Algebra I](/courses/18-701-algebra-i-fall-2010/pages/index.htm)_
+*   _[18.310 Principles of Discrete Applied Mathematics](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013) or_ _[6.042J / 18.062J Mathematics for Computer Science](/courses/6-042j-mathematics-for-computer-science-fall-2010)_
+*   _And one of: [18.06 Linear Algebra](/courses/18-06sc-linear-algebra-fall-2011),_ _[18.700 Linear Algebra](/courses/18-700-linear-algebra-fall-2013), or_ _[18.701 Algebra I](/courses/18-701-algebra-i-fall-2010)_
 *   or permission of the instructor
 
 ### Requirements Satisfied
